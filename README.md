@@ -1,4 +1,4 @@
-[![MasterHead](https://w.wallhaven.cc/full/we/wallhaven-we13kp.jpg)](https://cyrusmaster.io)
+[![MasterHead](https://w.wallhaven.cc/full/we/wallhaven-we13kp.jpg)](https://github.com/cyrusmaster)
 <h1 align="center">Hi 👋, I'm cyrus</h1>
 <h3 align="center">Talk is cheap. Show me the code.</h3>
 
