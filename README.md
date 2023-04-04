@@ -5,11 +5,11 @@
 <img align="right" width="400" src="https://img95.699pic.com/photo/40140/6590.gif_wh860.gif" alt="Smiley face" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrusmaster&label=Profile%20views&color=0e75b6&style=flat" alt="cyrusmaster" /> </p>
 
-- 🌱 I’m currently learning **algorithms **
+- 🌱 I’m currently learning **algorithms**
 
 - 📝 I regularly write articles on [https://cyrusmaster.com](https://cyrusmaster.com)
 
-- 💬 Ask me about **real-time computing Focus on bigdata **
+- 💬 Ask me about **Big Data Computing**
 
 - 📫 How to reach me **cyrus.cyf@gmail.com**
 
