@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm cyrus</h1>
 <h3 align="center">Talk is cheap. Show me the code.</h3>
 
-<img align="right" width="400" src="https://img95.699pic.com/photo/40140/6590.gif_wh860.gif" alt="Smiley face" >
+<img align="right" width="400" src="https://media.tenor.com/VkScszX7f3YAAAAC/discord-banner.gif" alt="Smiley face" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrusmaster&label=Profile%20views&color=0e75b6&style=flat" alt="cyrusmaster" /> </p>
 
 - 🌱 I’m currently learning **algorithms**
