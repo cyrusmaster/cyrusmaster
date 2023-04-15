@@ -1,4 +1,4 @@
-[![MasterHead](https://ipfs.4everland.xyz/ipfs/bafybeiejeaefx7hqggydztiely4azsi6eslicf72qxbbp6jpfz7u7rlhyu)](https://github.com/cyrusmaster)
+![2222](https://user-images.githubusercontent.com/45968542/232229180-ee5736bb-fa35-43ad-9b05-92c28339ddf0.jpg)
 
 <h1 align="center">Hi 👋, I'm cyrus</h1>
 <!-- <h3 align="center">Talk is cheap. Show me the code.</h3> -->
