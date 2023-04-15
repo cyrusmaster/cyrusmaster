@@ -1,6 +1,6 @@
 [![MasterHead](https://w.wallhaven.cc/full/we/wallhaven-we13kp.jpg)](https://github.com/cyrusmaster)
 <h1 align="center">Hi 👋, I'm cyrus</h1>
-<h3 align="center">Talk is cheap. Show me the code.</h3>
+<!-- <h3 align="center">Talk is cheap. Show me the code.</h3> -->
 
 <img align="right" width="400" src="https://media.tenor.com/VkScszX7f3YAAAAC/discord-banner.gif" alt="Smiley face" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrusmaster&label=Profile%20views&color=0e75b6&style=flat" alt="cyrusmaster" /> </p>
