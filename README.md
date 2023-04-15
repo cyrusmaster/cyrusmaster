@@ -1,4 +1,5 @@
-![2222](https://user-images.githubusercontent.com/45968542/232229180-ee5736bb-fa35-43ad-9b05-92c28339ddf0.jpg)
+![starry-sky-2051448](https://user-images.githubusercontent.com/45968542/232229664-f021c7b6-55ed-41b7-9239-b21fc6d0e5ec.jpg)
+
 
 <h1 align="center">Hi 👋, I'm cyrus</h1>
 <!-- <h3 align="center">Talk is cheap. Show me the code.</h3> -->
